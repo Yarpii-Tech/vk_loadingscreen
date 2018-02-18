@@ -28,7 +28,7 @@ VK.backgrounds.list = [ // Backgrounds list, can be on local or distant(http://.
     "img/2.jpg",
     "img/3.jpg"
 ];
-VK.backgrounds.duration = 3000; // Background duration (in ms) before transition (the transition lasts 2000 ms)
+VK.backgrounds.duration = 3000; // Background duration (in ms) before transition (the transition lasts 1/3 of this time)
 
 VK.tips.enable = true; //Enable tips (true : enable, false : prevent)
 VK.tips.list = [ // Tips list
