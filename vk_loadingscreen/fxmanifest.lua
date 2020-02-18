@@ -1,3 +1,5 @@
+fx_version 'adamant'
+games {'gta5'}
 files {
     'loading.html',
     'config.js',
@@ -18,5 +20,4 @@ files {
     'img/2.jpg',
     'img/3.jpg',
 }
-
 loadscreen 'loading.html'
